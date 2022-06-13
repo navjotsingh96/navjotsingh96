@@ -21,8 +21,9 @@
 [![My Skills](https://skillicons.dev/icons?i=angular,git,github,bootstrap,wordpress)](https://skillicons.dev)
 
 
-
-<img width="400" src="ezgif.com-gif-maker (1).gif">
+## Some examples of Work
+<a herf="navjot-singh.de"><img width="400" src="ezgif.com-gif-maker (1).gif">
+<a herf="navjot-singh.de"><img width="400" src="ezgif.com-gif-maker (1).gif">
 
 
 # Contact me
