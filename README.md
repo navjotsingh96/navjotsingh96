@@ -23,7 +23,7 @@
 
 ## Some examples of Work
 <a herf="navjot-singh.de"><img width="400" src="ezgif.com-gif-maker (1).gif">
-<a herf="navjot-singh.de"><img width="400" src="ezgif.com-gif-maker (1).gif">
+<a herf="navjot-singh.de"><img width="400" src="ezgif.com-gif-maker.gif">
 
 
 # Contact me
