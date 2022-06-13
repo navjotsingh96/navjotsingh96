@@ -1,5 +1,5 @@
 
-![Frontend developer](https://navjot-singh.de/assets/img/_DSC7921Singh22.jpg)
+//![Frontend developer](https://navjot-singh.de/assets/img/_DSC7921Singh22.jpg)
 
 # Hi there 👋, **I'm Navjot**
 ## Frontend developer
